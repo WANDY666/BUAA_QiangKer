@@ -30,3 +30,4 @@
 
 ### ~~使用教程~~（如何写脚本的教程）
 
+[My blog](https://wandy666.github.io./2021/03/08/qiangker/)
